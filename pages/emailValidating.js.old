@@ -1,0 +1,9 @@
+// import React from 'react'
+//
+// import EmailValidating from '../src/EmailValidatingForm'
+//
+// function emailValidating() {
+//     return <EmailValidating />
+// }
+//
+// export default emailValidating
